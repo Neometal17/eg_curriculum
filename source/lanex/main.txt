@@ -1,0 +1,303 @@
+\documentclass[11pt,a4paper]{article}
+
+% --------------------
+% PAQUETES
+% --------------------
+\usepackage[spanish]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\geometry{margin=1.8cm}
+\setlength{\parindent}{0pt}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue
+}
+\definecolor{lightgray}{gray}{0.9}
+\definecolor{companycolor}{RGB}{40,40,40}   % gris oscuro
+
+% --------------------
+% COMANDOS
+% --------------------
+\newcommand{\cvsection}[1]{
+    \vspace{8pt}
+    {\large \textbf{#1}}
+    \vspace{4pt}
+    \hrule
+    \vspace{6pt}
+}
+
+% --------------------
+% DOCUMENTO
+% --------------------
+\begin{document}
+
+% ====================
+% CABECERA
+% ====================
+\begin{center}
+    {\LARGE \textbf{Emmanuel Ulises Gonzalez Zerpa}}\\
+    \vspace{4pt}
+    Ingeniero de Software, Java Senior Level, Javascript Middle Level\\
+    \vspace{6pt}
+    \href{mailto:Neometal17@gmail.com}{Neometal17@gmail.com} \,|\, 
+    +51 979 714 285 \,|\, +51 917 765 472\\
+    Lima, Perú | Nacionalidad: Venezolano
+\end{center}
+
+% ====================
+% RESUMEN
+% ====================
+\cvsection{Resumen Profesional}
+
+Ingeniero de Software Senior con más de 10 años de experiencia participando en proyectos de alta complejidad para los sectores de telecomunicaciones, banca, seguros, energía y fintech en Latinoamérica. Especializado en el ecosistema Java, con sólida experiencia en el diseño, desarrollo y evolución de aplicaciones backend y full stack basadas en arquitecturas modernas y sistemas distribuidos.
+
+Experiencia trabajando con Java desde versiones legacy hasta Java 21, utilizando Spring Boot, Spring Cloud, Spring Reactor, RxJava, APIs REST y SOAP, así como frameworks de persistencia como JPA, Hibernate y MyBatis. Participación activa en procesos de migración tecnológica, modernización de plataformas y adopción de arquitecturas cloud-native.
+
+Amplio conocimiento en arquitecturas orientadas a eventos (EDA), patrones CQRS y Saga, y mensajería distribuida mediante Kafka y RabbitMQ. Experiencia en entornos Cloud híbridos y multi-cloud sobre Azure, AWS y OCI, así como en servidores de aplicaciones como WebLogic, WebSphere, JBoss, WildFly y Tomcat.
+
+En el ecosistema Microsoft Azure, experiencia práctica en el diseño e implementación de soluciones utilizando \textbf{Azure Log Analytics}, \textbf{Azure Monitor} y \textbf{Application Insights} para observabilidad y monitoreo; \textbf{Azure Data Factory} para integración y orquestación de datos; \textbf{Event Hubs} como plataforma de ingesta y procesamiento de eventos; y servicios de persistencia como \textbf{Azure Storage}, \textbf{Cosmos DB} y \textbf{Azure SQL Database}. Despliegue y operación de aplicaciones contenerizadas mediante \textbf{Azure Container Apps} y \textbf{Azure Kubernetes Service (AKS)}, siguiendo prácticas DevOps y CI/CD.
+
+Actualmente enfocado en fortalecer prácticas de desarrollo con Java 21+ y Spring Boot 4+, priorizando diseño limpio, inmutabilidad, programación reactiva, observabilidad, calidad de código y escalabilidad en sistemas distribuidos.
+
+
+% ====================
+% HABILIDADES
+% ====================
+\cvsection{Habilidades Técnicas}
+
+\textbf{Plataformas y Cloud:}\\
+Linux, Windows, Azure, AWS, OCI, WebLogic, WebSphere, JBoss, WildFly, Tomcat
+
+\vspace{4pt}
+\textbf{Lenguajes y Frameworks:}\\
+Java, Python, JavaScript, Angular, React, NodeJS, Spring Boot, Spring Cloud, Spring Reactor, RxJava, JSF
+
+\vspace{4pt}
+\textbf{DevOps y Calidad:}\\
+Docker, Kubernetes, Jenkins, Maven, Gradle, SonarQube, JaCoCo, JMeter, Mockito, JUnit, Git
+
+\vspace{4pt}
+\textbf{Mensajería y Observabilidad:}\\
+Kafka, RabbitMQ, Grafana, Elasticsearch
+
+\vspace{4pt}
+\textbf{Bases de Datos:}\\
+PostgreSQL, MySQL, MongoDB, SQL Server, Oracle, Redis, H2
+
+% ====================
+% CONOCIMIENTOS COMPLEMENTARIOS
+% ====================
+\cvsection{Conocimientos Complementarios}
+
+Jira, Bitbucket, Figma, ServiceDesk, Scrum, Kanban
+
+% ====================
+% EXPERIENCIA LABORAL
+% ====================
+\cvsection{Experiencia Laboral}
+
+\colorbox{lightgray}{
+    \strut \textbf{Ayesa} \ --- Ingeniero de Software Senior
+}
+ 
+\hfill Lima, Perú\\
+\textit{07/2025 -- Actualidad}
+
+
+\textbf{Proyecto: Synergia} \hfill \textit{07/2024 -- 11/2025}
+
+\begin{itemize}[leftmargin=*]
+    \item Análisis, estimación y refinamiento de historias de usuario.
+    \item Migración de Angular 8 a Angular 17.
+    \item Migración de Java 8 a Java 17.
+    \item Migración de encriptación integrada con SAP.
+    \item Implementación de Azure MFA.
+    \item Gestión de dependencias con otros equipos.
+    \item Implementación de soluciones tanto en código como en configuración.
+    \item Coordinación de despliegues a entornos de certificación y producción.
+\end{itemize}
+Tecnologías: Java, Spring Boot, OAuth2, Azure, Kafka, RxJava.
+
+\vspace{4pt}
+\textbf{Proyecto: Web Traza} \hfill \textit{07/2024 -- 11/2025}
+\begin{itemize}[leftmargin=*]
+    \item Análisis y estimación de historias de usuario.
+    \item Migración de Angular 8 a Angular 17.
+    \item Migración de Java 8 a Java 17.
+    \item Migración de encriptación con SAP.
+    \item Implementación de Azure MFA.
+    \item Coordinación de despliegues productivos.
+\end{itemize}
+Tecnologías: Java, Spring Boot, OAuth2, Azure, Kafka, RxJava.
+
+% ------------------------------------------------
+
+\vspace{6pt}
+\colorbox{lightgray}{
+    \strut \textbf{NTT Data Mobile} --- Desarrollador Senior 
+}
+\hfill Lima, Perú\\
+\textit{04/2025 -- 06/2025}
+
+\textbf{Proyecto: Administrador de Consentimiento} \hfill \textit{04/2024 -- 01/2025}
+\begin{itemize}[leftmargin=*]
+    \item Análisis y refinamiento de historias de usuario.
+    \item Implementación de servicios backend.
+    \item Gestión de dependencias entre equipos.
+    \item Coordinación de despliegues a certificación y producción.
+\end{itemize}
+Tecnologías: Java, Spring Boot, Azure, Kafka.
+
+% ------------------------------------------------
+
+\vspace{6pt}
+\colorbox{lightgray}{
+    \strut \textbf{Freelance} --- Ingeniero de Software Full Stack 
+}
+    \hfill Lima, Perú\\
+\textit{02/2024 -- 03/2025}
+
+\textbf{Proyecto: GOGO's -- Landing Page} \hfill \textit{11/2024 -- 01/2025}
+\begin{itemize}[leftmargin=*]
+    \item Creación de mockups para la web.
+    \item Asesoría en implementación y alojamiento.
+    \item Construcción y despliegue en producción.
+    \item Evaluación de presupuesto y viabilidad.
+\end{itemize}
+Tecnologías: React, NodeJS, MongoDB.
+
+\vspace{4pt}
+\textbf{Proyecto: SAGES -- Sistema de Administración de Costos} \hfill \textit{04/2024 -- 10/2024}
+\begin{itemize}[leftmargin=*]
+    \item Evaluación de viabilidad técnica.
+    \item Diseño de arquitectura a nivel técnico.
+    \item Implementación de servicios backend.
+    \item Documentación técnica.
+    \item Pruebas de performance.
+    \item Planificación de despliegue y salida a producción.
+\end{itemize}
+Tecnologías: Java, Spring Boot, Spring Reactor, Docker, Kubernetes, PostgreSQL, Azure, Jira, Bitbucket, Git, SonarQube, JUnit.
+
+\vspace{4pt}
+\textbf{Proyecto: GOGO -- Sistema de Gestión de Eventos} \hfill \textit{02/2024 -- 04/2024}
+\begin{itemize}[leftmargin=*]
+    \item Evaluación y análisis de presupuesto.
+    \item Implementación de servicios backend.
+    \item Documentación técnica.
+    \item Pruebas de performance.
+    \item Planificación de despliegue productivo.
+\end{itemize}
+Tecnologías: Java, Spring Boot, Spring Reactor, Docker, Kubernetes, JavaScript, PostgreSQL, Azure.
+
+% ------------------------------------------------
+
+\vspace{6pt}
+\colorbox{lightgray}{
+    \textbf{Encora} --- Ingeniero de Software 
+}
+\hfill Lima, Perú\\
+\textit{02/2022 -- 02/2024}
+
+\textbf{Proyecto: Alicorp -- DiaDiaDex}
+\begin{itemize}[leftmargin=*]
+    \item Definición de lineamientos técnicos y estándares de calidad.
+    \item Análisis y diseño de funcionalidades críticas.
+    \item Revisión de flujos cross y mejoras de rendimiento.
+    \item Estrategias de despliegue y observabilidad.
+    \item Revisión de propuestas técnicas del equipo.
+    \item Seguimiento de ceremonias Scrum.
+\end{itemize}
+Tecnologías: Java, Spring Boot, Spring Reactor, Docker, Kubernetes, Python, JavaScript, PostgreSQL, Azure, Jira, Bitbucket, Git, SonarQube, JaCoCo, JUnit, Cucumber, Grafana, Elasticsearch.
+
+% ------------------------------------------------
+
+\vspace{6pt}
+\colorbox{lightgray}{ 
+    \textbf{Global66} --- Desarrollador Java Senior 
+}
+\hfill Lima, Perú\\
+\textit{05/2021 -- 06/2022}
+
+\textbf{Proyecto: Portal de Remesas}
+\begin{itemize}[leftmargin=*]
+    \item Implementación del core de negocio para remesas internacionales.
+    \item Integración de medios de pago en múltiples países.
+    \item Implementación de procesos de fondeo bancario (PayIn / PayOut).
+    \item Desarrollo de arquitecturas serverless con AWS Lambda y Step Functions.
+    \item Implementación de TDD, principios SOLID y pruebas de integración.
+\end{itemize}
+Tecnologías: Java, Spring Boot, Docker, AWS, Jenkins, MySQL, Serverless.
+
+% ------------------------------------------------
+
+\vspace{6pt}
+\colorbox{lightgray}{
+    \strut \textbf{Hiper S.A.} --- Desarrollador Senior Full Stack 
+}
+\hfill Lima, Perú\\
+\textit{11/2019 -- 05/2021}
+
+\textbf{Proyecto: Migración HiperCenter}
+\begin{itemize}[leftmargin=*]
+    \item Migración de plataforma de configuración de POS a arquitectura moderna.
+    \item Desarrollo Full Stack con Spring Cloud y Angular.
+    \item Implementación de CI/CD y contenedores Docker en AWS.
+    \item Diseño e implementación de interfaces de usuario.
+\end{itemize}
+Tecnologías: Java, Spring Cloud, Angular, RxJava, AWS, Docker, Jenkins, MySQL.
+
+% ------------------------------------------------
+
+\vspace{6pt}
+\colorbox{lightgray}{
+    \textbf{Consis International} --- Líder Técnico Java 
+}    
+    \hfill Lima, Perú\\
+\textit{11/2017 -- 10/2019}
+
+\textbf{Proyecto: Framework de Seguros Acsel-E}
+\begin{itemize}[leftmargin=*]
+    \item Análisis y corrección de incidencias productivas.
+    \item Desarrollo de scripts de corrección de datos.
+    \item Análisis de requerimientos y prevención de defectos.
+    \item Soporte a producción y entrega de evidencias.
+\end{itemize}
+Tecnologías: Java, Spring, JSF, Struts, Oracle, SQL Server, WebSphere, Tomcat.
+
+
+% ====================
+% EDUCACIÓN
+% ====================
+\cvsection{Educación}
+
+\textbf{Técnico Superior Universitario en Informática} \hfill 2011 -- 2014\\
+IUTIRLA -- Venezuela
+
+\vspace{4pt}
+\textbf{Bachiller en Ciencias} \hfill 2001 -- 2006\\
+Unidad Educativa Nacional Andrés Eloy Blanco
+
+\vspace{4pt}
+\textbf{Certificaciones IBM Advanced Career Education} \hfill 2006 -- 2007
+\begin{itemize}[leftmargin=*]
+    \item IT and Networking Fundamentals
+    \item Programming Fundamentals
+    \item Application Development
+\end{itemize}
+
+% ====================
+% IDIOMAS
+% ====================
+\cvsection{Idiomas}
+
+\textbf{Español:} Nativo \\
+\textbf{Inglés:} A1
+
+\end{document}
