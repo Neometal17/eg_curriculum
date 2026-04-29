@@ -192,7 +192,7 @@ Tecnologías: Java, Spring Boot, Azure, Kafka.
 \textit{02/2024 -- 03/2025}
 
 \vspace{4pt}
-\textbf{Proyecto: SAGES -- Sistema de Administración de Costos} \hfill \textit{04/2024 -- 10/2024}
+\textbf{Proyecto: SAGES -- Sistema de Administración de Costos} \hfill \textit{02/2024 -- 03/2025}
 \begin{itemize}[leftmargin=*]
     \item Evaluación de viabilidad técnica.
     \item Diseño de arquitectura a nivel técnico.
