@@ -1,0 +1,11 @@
+
+Fecha: 02/2026 - Actualmente
+Empresa: Medialabtech
+Cargo: Desarrollador Backend - Soporte
+Descripcion Full:
+Análisis, evaluación y desarrollo de nuevos requerimientos en la Herramienta Estratégica IFRS, dentro del marco de la metodología Scrum. Uso de tecnologías Java (versiones 8, 11, 17 y 21) bajo el framework Spring Boot (versiones 3 y 4). Construcción y migración de servicios REST siguiendo las especificaciones OpenAPI (OAS).
+Elaboración y mantenimiento de archivos .yml para procesos de despliegue continuo en Jenkins y AWS CodeBuild, en entornos administrados de Kubernetes (EKS). Aplicación de lineamientos de calidad de código mediante SonarQ y OWASP, junto con la adopción de prácticas TDD para pruebas unitarias.
+Mantenimiento de componentes cloud como AWS Lambda, orquestados mediante Step Functions, e integración con servicios de mensajería (Amazon SQS) desde Step Functions y Spring. Implementación de programación reactiva con WebFlux. Análisis y resolución de incidentes utilizando herramientas de monitoreo como Grafana y Loki.
+
+Descripcion:
+Realizar analisis, evalucion y desarrollo de nuevos requerimientos en la Herramienta Estrategica IFRS dentro de marco de la metodologia Scrum, en las tegnologia Java 8, 11, 17 y 21, bajo el framework Spring Boot en su version 3 y 4, construccion y migracion de servicion Rest, siguiendo las especificaciones OpenAPI (OAS), construccion y mantenimiento de archivo .yml asociado al despliegue continuo en Jenkins y AWS Codebuilds, en sus entornos administrado de Kubenetes (EKS), siguiendo los lineamiento de calidad en codigo con SonarQ y OWASP, siguiendo flujos TDD, en los test unitarios, mantenimiento de componentes Cloud como lambda orquestado por StepFunction,  integraciones con servicios de mensajeria (Amazon SQS) desde Stepfuncion y Spring, gestionado de forma reactiva con webflux, analisis y solucion de incidentes mediante erramientas de monitoreo (Grafana+Loki)

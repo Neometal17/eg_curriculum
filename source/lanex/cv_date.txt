@@ -1,0 +1,13 @@
+\textit{07/2025 -- Actualidad}
+\textbf{Proyecto: Synergia} \hfill \textit{07/2024 -- 11/2025}
+\textbf{Proyecto: Web Traza} \hfill \textit{07/2024 -- 11/2025}
+\textit{04/2025 -- 06/2025}
+\textbf{Proyecto: Administrador de Consentimiento} \hfill \textit{04/2024 -- 01/2025}
+\textit{02/2024 -- 03/2025}
+\textbf{Proyecto: GOGO's -- Landing Page} \hfill \textit{11/2024 -- 01/2025}
+\textbf{Proyecto: SAGES -- Sistema de Administración de Costos} \hfill \textit{04/2024 -- 10/2024}
+\textbf{Proyecto: GOGO -- Sistema de Gestión de Eventos} \hfill \textit{02/2024 -- 04/2024}
+\textit{02/2022 -- 02/2024}
+\textit{05/2021 -- 06/2022}
+\textit{11/2019 -- 05/2021}
+\textit{11/2017 -- 10/2019}
