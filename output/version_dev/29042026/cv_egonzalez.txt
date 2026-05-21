@@ -310,5 +310,3 @@ Unidad Educativa Nacional Andrés Eloy Blanco
 \textbf{Inglés:} A1
 
 \end{document}
-Programacion Potenciada con Agente Claude (Opus 4.6 sonnet 4.5 y kimi K2.5), Codex (GTP5.2 y
-GPT 5.3) y Opencode 
